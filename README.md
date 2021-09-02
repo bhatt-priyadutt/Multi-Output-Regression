@@ -12,3 +12,6 @@ Estimating customer value and extrapolating the existing value into future are t
 <img src="https://github.com/bhatt-priyadutt/priyadutt-portfolio/blob/main/images/plot-multi.png" />
 * Model performance: ANN
 <img src="https://github.com/bhatt-priyadutt/priyadutt-portfolio/blob/main/images/loss-multi.png" />
+
+
+* Secured 52nd rank in the hackathon organized by Techniche IIT Guwahati.
